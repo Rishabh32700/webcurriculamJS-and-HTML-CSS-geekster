@@ -1,0 +1,9 @@
+Conditionals
+        If
+        If Else
+        If Else if Else
+        Switch
+        Ternary Operators
+------------------------------------ max 1 hr -----------------------------------------------
+Excercise
+day from where we will start giving some home work.... baaki k 1 hr assignments p lga k jitne hpo paaye theek jo assignment bach gye unko as a home work de denge

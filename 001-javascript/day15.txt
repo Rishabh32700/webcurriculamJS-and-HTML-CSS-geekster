@@ -1,0 +1,16 @@
+Object
+        Creating an empty object
+        Creating an objecting with values
+        Getting values from an object
+        Creating object methods
+        Setting new key for an object
+        Object Methods
+            Getting object keys using Object.keys()
+            Getting object values using Object.values()
+            Getting object keys and values using Object.entries()
+            Checking properties using hasOwnProperty()
+------------------------------ will take a class --------------------------------------------
+Exercise
+shift to day 16
+now day 16 wolud be the day jha humare 2 test ho chuke honge humara day 2 of interaction hoga yeh yha hume yeh bhi pta chal jayga ki kon weak performer hi h class ka jo lagatar weak perporm kr rha h means he need some attention
+iss day humara interaction hoga + test 2 solve hoga + day 15 ki exercise hogi

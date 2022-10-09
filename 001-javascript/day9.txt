@@ -1,0 +1,10 @@
+Strings
+        String Concatenation
+            Concatenating Using Addition Operator
+            Long Literal Strings
+            Escape Sequences in Strings
+            Template Literals (Template Strings)
+        String Methods
+------------------------------- will take a class -----------------------------------------
+Excercise
+next day 1 hrs iss p baaki ka 1 hr ispe jo bach jaaye voh homework

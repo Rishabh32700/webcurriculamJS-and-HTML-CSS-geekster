@@ -1,0 +1,28 @@
+day 16 exercise ka discussion
+----------------------------- 30 mins ---------------------------------------------
+Higher Order Function
+        Callback
+        Returning function
+        Setting time
+            Setting Interval using a setInterval function
+            Setting a time using a setTimeout
+--------------------------- 1.30 hrs -------------------------------------------------
+
+
+**************************************************************************************
+Functional Programming
+forEach
+map
+filter
+reduce
+every
+find
+findIndex
+some
+sort
+Sorting string values
+Sorting Numeric values
+Sorting Object Arrays
+Exercise
+***************************************************************************************
+shift this to day 18

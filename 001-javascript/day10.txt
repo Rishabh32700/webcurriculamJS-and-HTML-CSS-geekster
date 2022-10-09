@@ -1,0 +1,10 @@
+
+------------------------------------ 1 hr string ka assignment ---------------------------------
+
+Arrays
+        How to create an empty array
+        How to create an array with values
+        Creating an array using split
+        Accessing array items using index
+        Modifying array element
+---------------------------------- 1 hr arrays ka discussion -----------------------------------

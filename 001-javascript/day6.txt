@@ -1,0 +1,19 @@
+major doubts and some recap of day 5 + assignment k kuch ques agr nai ho paaye toh voh
+---------------------------------- 30 mins -----------------------------------------
+
+Loops
+        for loop
+            Infinte for loop
+        while Loop
+            Infinite while Loop
+        do while loop
+            Infinite do while loop
+        for vs while loop
+        break
+        continue
+-------------------------------- 1.5 hr ----------------------------------------------
+Exercise 
+shift this to day
+---------------------------------------------------------------------------------------
+
+add this day 7 wolud be the day jha humara first test ho chuka hhoga JS ka so iss day p hum uss test k basis p jo weak performers h unse baat kr sakte h + test solve kra sakte h + day 6 ki exercises + jo bhie last week k doubts h voh sab can be cleared this day p

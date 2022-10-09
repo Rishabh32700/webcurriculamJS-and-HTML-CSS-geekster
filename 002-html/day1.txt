@@ -1,0 +1,28 @@
+What is the Internet?
+------------------------------ 5- 10 min -------------------------------
+What is the Web?
+------------------------------ 5 - 10 min ------------------------------
+Web Terminology
+------------------------------ 10 -15 min ------------------------------
+Browser Features
+        Page Inspector
+        Web Console
+        JavaScript Debugger
+        Network Monitor
+        Responsive Design Mode
+----------------------------- 30 mins -----------------------------------
+What is HTML
+Anatomy of an HTML Element
+        Nesting Elements
+        Empty Elements
+        Attributes
+---------------------------- 15 - 20 min --------------------------------
+Anatomy of an HTML Document
+Marking up text
+        Heading
+        Paragraphs
+        Links
+        Lists
+---------------------------- baaki ki class ------------------------------
+Project
+jo upr k tags h na unko iss treeke se krana h ki apne aap hi yeh project bn jaye

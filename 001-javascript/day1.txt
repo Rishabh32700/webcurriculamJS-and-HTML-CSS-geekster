@@ -1,0 +1,35 @@
+JavaScript Introduction
+        What is JavaScript
+        Why we need JavaScript
+        What JavaScript in browser can do
+        What JavaScript cannot do in browser
+        Why is JavaScript unique from other programming language
+----------------------------------- 30 mins -----------------------------------------
+
+Setup
+        Installing Mozilla FireFox
+        Opening FireFox Console
+        Console.log
+        Console.log with Multiple Arguments
+        Comments
+        Syntax
+        Arithmetics
+----------------------------- 30 mins - 45 mins --------------------------------------
+
+Introduction to Data types
+        Numbers
+        Strings
+        Booleans
+        Undefined
+        Null
+----------------------------------- 30 mins -----------------------------------------
+        
+JavaScript Variables
+        JavaScript-Declare-Variables
+        JavaScript Initialize Variables
+        Change the Value of Variables
+        Rules for Naming JavaScript Variables
+--------------- 30 mins (if possible otherwise carry forward to Day2) ----------------
+
+Excercises 
+need to keep a day 2 where some Excercises is to be done and all major queries related to day one will be sorted plus revision of day 1

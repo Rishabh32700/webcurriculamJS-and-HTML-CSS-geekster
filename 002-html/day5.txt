@@ -1,0 +1,30 @@
+What is CSS?
+Syntax of CSS
+        Selector
+        Declaration
+        Properties
+        Property Value
+----------------------- 10 mins -------------------------------------
+Different types of selectors
+        Element Selector
+        Id Selector
+        Class Selector
+----------------------- 15 - 20 mins --------------------------------
+Some Best practices to use css selectors
+Applying CSS to HTML
+        External StyleSheet
+        Internal StyleSheet
+        Inline Styles
+----------------------- 30 mins --------------------------------------
+CSS colors
+        rgb() function in CSS
+        RGBA Colors
+        CSS HEX Colors
+Few CSS properties
+        color
+        Syntax
+        background-color
+        Syntax
+--------------------- 30 mins --------------------------------------
+
+day 5 p we have buffer of 30 mins

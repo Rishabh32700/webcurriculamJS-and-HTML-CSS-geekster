@@ -1,0 +1,21 @@
+Arrays
+        Methods to manipulate array
+            Array Constructor
+            Creating static values with fill
+            Concatenating array using concat
+            Getting array length
+            Getting index an element in arr array
+            Getting last index of an element in array
+            Checking array
+            Converting array to string
+            Joining array elements
+            Slice array elements
+            Splice method in array
+            Adding item to an array using push
+            Removing the end element using pop
+            Removing an element from the beginning
+            Add an element from the beginning
+            Reversing array order
+            Sorting elements in array 
+---------------------------- will take a class ------------------------------------------
+Exercise

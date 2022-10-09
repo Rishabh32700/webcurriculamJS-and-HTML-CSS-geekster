@@ -1,0 +1,27 @@
+Installing Node (can be done on day 1)
+----------------------------------------------------------------------------------------------
+Data Types
+        Primitive Data Types
+        Non-Primitive Data Types
+---------------------------------- 20 min ----------------------------------------------------
+Number
+String
+Boolean
+        Truthy values
+        Falsy values
+Undefined
+Null
+--------------------------------- 45 mins -----------------------------------------------------
+Symbol
+What is an Operator?
+Type of Operators
+        Assignment Operators
+        Arithmetic Operators
+        Comparison Operators
+        Logical Operators
+        Bitwise Operators
+        String Operators
+        Other Operators
+----------------------------- rest of the class ----------------------------------------------
+Excercise
+shift to day 4.... where some Excercises is to be done and all major queries related to day 3 will be sorted plus revision of day 3

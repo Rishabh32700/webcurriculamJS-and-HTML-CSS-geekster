@@ -1,0 +1,15 @@
+frog game in class
+--------------- agr tym bacha toh baaki ka jo neeche h voh-------------
+***********************************************************************
+Flexbox
+CSS Flex Items
+The order Property
+The flex-grow Property
+The flex-shrink Property
+The flex-basis Property
+The flex Property
+The align-self Property
+The CSS Flexbox Items Properties
+TO-DO
+*************************************************************************
+agr tym nai bacha toh shift this to day 11

@@ -1,0 +1,21 @@
+Math Object
+        Random Number Generator
+Date Object
+        Creating a time object
+        Getting full year
+        Getting month
+        Getting date
+        Getting day
+        Getting hours
+        Getting minutes
+        Getting seconds
+        Getting time
+Checking Data Types and Casting
+        Checking Data Types
+        Changing Data Type (Casting)
+            String to Int
+            String to Float
+            Float to Int
+------------------------------ 1.5 at max ------------------------------
+Exercise
+----------------------------- 30 min jitna hua utna baaki HW ---------------------

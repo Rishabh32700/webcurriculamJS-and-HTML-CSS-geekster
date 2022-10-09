@@ -1,0 +1,27 @@
+CSS Units
+        Absolute length units
+        Relative length units
+        Percentages
+---------------------------- 20 mins ---------------------------------
+Block and inline boxes
+What is the CSS box model?
+--------------------------- 20 mins ----------------------------------
+Parts of a box
+        The standard CSS box model
+        The alternative CSS box model
+CSS Margins
+        Margin - Individual Sides
+        Margin - Shorthand Property
+CSS Padding
+        Padding - Individual Sides
+        Padding - Shorthand Property
+------------------------------ 30 mins -------------------------------
+CSS Border Style
+------------------------------ 20 mins -------------------------------
+TO-DO
+Resources
+
+30 min buffer on day 6 as well
+********************************************************************
+what i have thought of here is ki units ko day 5 p shift kr k day 6 p hum 1 hr bacha k jo cafe menu vala project h voh start kra de jo baaki bacha h voh hum test m de denge jo day 7 p first test hoga voh yahi hoga humara cafe menu vala
+********************************************************************

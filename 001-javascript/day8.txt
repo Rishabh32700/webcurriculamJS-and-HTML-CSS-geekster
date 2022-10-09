@@ -1,0 +1,10 @@
+Functions
+        Function Declaration
+        Function without a parameter and return
+        Function returning value
+        Function with a parameter
+        Function with two parameters
+        Function with many parameters
+------------------------------- will take complete class ---------------------------------
+Exercise
+have to shift this to day 9 (have to have)
